@@ -2,7 +2,9 @@
 
 ---
 
-《分布式k-团计数算法的设计与实现》源代码，作者：崔冬航
+本科毕业设计《分布式k-团计数算法的设计与实现》源代码
+
+基于Pivoter算法实现，具体参阅：Jain, Shweta, and C. Seshadhri. "The power of pivoting for exact clique counting." Proceedings of the 13th international conference on web search and data mining. 2020.
 
 编译和运行方式：
 
